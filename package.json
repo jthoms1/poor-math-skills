@@ -1,0 +1,12 @@
+{
+  "name": "poor-math-skills",
+  "version": "0.0.1",
+  "description": "Simple demo for es2015 modules",
+  "jsnext:main": "ecm/index.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
